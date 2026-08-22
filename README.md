@@ -21,7 +21,7 @@
 ---
 
 ### Backend & Databases
-**Node.js** | **PostgreSQL (Neon)** | **Prisma ORM** | **NextAuth.js v5 (Auth.js)**
+**PostgreSQL (Neon)** | **Prisma ORM** | **NextAuth.js v5 (Auth.js)**
 
 * **Architecture & Integrations:** REST APIs, WebSockets (ws), Stripe API
 
